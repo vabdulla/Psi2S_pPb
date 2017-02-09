@@ -1,0 +1,19 @@
+DATA_Pbp  ; root://xrootd.unl.edu//store/group/phys_heavyions/dileptons/Data2013/pPb502TeV/Jpsi_Psi2S/TTrees/RD2013_pa_1st_run_210498-210658_GR_P_V43F_nocut.root
+DATA_Pbp  ; root://xrootd.unl.edu//store/group/phys_heavyions/dileptons/Data2013/pPb502TeV/Jpsi_Psi2S/TTrees/RD2013_pa_1st_run_210676-211256_GR_P_V43D_nocut.root
+DATA_Pbp  ; root://xrootd.unl.edu//store/group/phys_heavyions/dileptons/Data2013/pPb502TeV/Jpsi_Psi2S/TTrees/RD2013_pa_2nd_run_211313-211631_GR_P_V43D_nocut.root
+
+MCJPSIPR_Pbp   ; root://xrootd.unl.edu//store/group/phys_heavyions/dileptons/MC2013/pPb502TeV/PromptJpsi/MCJPsiWithFSR_pa_1st_run_STARTHI53_V27_ext1_nocut.root 
+
+MCJPSINOPR_Pbp ; root://xrootd.unl.edu//store/group/phys_heavyions/dileptons/MC2013/pPb502TeV/NonPromptJpsi/MCinclBtoJPsiMuMu_pa_1st_run_STARTHI53_V27_ext1_nocut.root
+
+MCPSI2SPR_Pbp  ; root://xrootd.unl.edu//store/group/phys_heavyions/dileptons/MC2013/pPb502TeV/PromptPsi2S/MCPsi2SWithFSR_pa_1st_run_STARTHI53_V27_ext1_nocut.root
+
+MCPSI2SNOPR_Pbp  ; root://xrootd.unl.edu//store/group/phys_heavyions/dileptons/MC2013/pPb502TeV/NonPromptPsi2S/MCinclBtoPsi2SMuMu_pa_1st_run_STARTHI53_V27_ext1_nocut.root
+
+DATA_PP      ;  root://xrootd.unl.edu//store/group/phys_heavyions/dileptons/Data2015/pp502TeV/TTrees/PromptAOD/OniaTree_DoubleMu_Run2015E-PromptReco-v1_Run_262157_262328_noCUT_TRKMU.root 
+
+MCJPSIPR_PP     ;  root://xrootd.unl.edu//store/group/phys_heavyions/dileptons/MC2015/pp502TeV/TTrees/OniaTree_JpsiMM_5p02TeV_TuneCUETP8M1_Trk_HINppWinter16DR-75X_mcRun2_asymptotic_ppAt5TeV_v3-v1_Extended.root
+
+MCJPSINOPR_PP   ;  root://xrootd.unl.edu//store/group/phys_heavyions/dileptons/MC2015/pp502TeV/TTrees/OniaTree_BJpsiMM_5p02TeV_TuneCUETP8M1_Trk_HINppWinter16DR-75X_mcRun2_asymptotic_ppAt5TeV_v3-v1_Extended.root
+
+MCPSI2SPR_PP    ;  root://xrootd.unl.edu//store/group/phys_heavyions/dileptons/MC2015/pp502TeV/TTrees/OniaTree_Psi2SMM_5p02TeV_TuneCUETP8M1_HINppWinter16DR-75X_mcRun2_asymptotic_ppAt5TeV_v3-v1.root
