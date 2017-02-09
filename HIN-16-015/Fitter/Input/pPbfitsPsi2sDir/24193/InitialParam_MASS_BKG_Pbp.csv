@@ -1,0 +1,11 @@
+rap;pt;Model_Bkg_Pbp;
+1.46-1.93;3.0-4.0;Exponential;
+1.46-1.93;4.0-5.0;Exponential;
+1.46-1.93;5.0-6.5;Exponential;
+1.46-1.93;4.0-6.5;Exponential;
+1.46-1.93;6.5-10.0;Exponential;
+1.46-1.93;10.0-30.0;Exponential;
+1.46-1.93;3.0-6.5;Exponential;
+1.46-1.93;4.0-10.0;Exponential;
+1.46-1.93;4.0-30.0;Exponential;
+1.46-1.93;6.5-30.0;Exponential;
