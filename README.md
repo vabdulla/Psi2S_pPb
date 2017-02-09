@@ -1,5 +1,6 @@
 # Psi2S_pPb
 2D-fitting codes used for HIN-16-015 Psi(2S) analysis with pPb and pp data at 5.02 TeV. Basically these codes are modified forms of the Fitter used in HIN-16-025 (https://github.com/jmartinb/DimuonCADIs/tree/master/HIN-16-004/Fitter). 
+* The Fitter is hardcoded in somefiles like mass/ctau range corresponding to the objects (Jpsi/Psi2S) and like the collision tag like PP or Pbp. 
 
 ## Fitter
 * See documentation in https://twiki.cern.ch/twiki/bin/view/CMS/HiCharm2015Fitter
